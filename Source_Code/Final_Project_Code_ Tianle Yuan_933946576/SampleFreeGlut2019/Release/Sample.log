@@ -1,0 +1,77 @@
+﻿  sample.cpp
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(60,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(78,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(79,36): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(80,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(82,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(83,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(88,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sphere.h(89,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(128,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(131,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(134,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(152,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(155,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(158,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(171,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(175,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\loadobjfile.h(179,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(23,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(33,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(34,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(36,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(137,50): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(506,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(512,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(512,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(513,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(513,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(514,78): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(514,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(515,77): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(515,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(535,110): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(544,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(545,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(551,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(552,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(558,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(559,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1024,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1025,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1026,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1185,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1197,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1209,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1221,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1379,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1380,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1386,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1387,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1389,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1390,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1392,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1393,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1395,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1395,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1395,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1395,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1395,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1400,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1401,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1403,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1404,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1406,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1407,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1409,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1414,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1415,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1417,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1418,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1420,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1421,152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ytl_5\Desktop\CS550\FINAL\Final_Project_Code_ Tianle Yuan_933946576\SampleFreeGlut2019\sample.cpp(1423,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+sample.obj : error LNK2019: unresolved external symbol __imp__glewGetString@4 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+.\Release\Sample.exe : fatal error LNK1120: 2 unresolved externals
